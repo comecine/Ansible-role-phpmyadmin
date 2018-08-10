@@ -1,0 +1,2 @@
+ansible-galaxy install --force --role-file requirements.yml
+vi playbook.yml
